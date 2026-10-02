@@ -4,7 +4,7 @@ title: Rest privacy policy
 
 # Rest privacy policy
 
-Last updated: 1st October 2026
+Last updated: 2nd October 2026
 
 Rest is an ultra minimalist launcher for Android. This policy explains what Rest does with your information. The short version: nothing leaves your phone.
 
@@ -33,7 +33,6 @@ Rest uses only these Android permissions:
 
 * **Expand status bar**: so the Notifications button in Rest's panel can open your normal notification shade.
 * **WiFi state**: so the WiFi switch in Rest's panel can show whether WiFi is on.
-* **Bluetooth** (Android 11 and older only): so the Bluetooth switch can show whether Bluetooth is on.
 * **Do not disturb access**: so the Quiet switch can turn Do not disturb on and off. Rest asks for this only the first time you tap Quiet, and you can say no.
 * **Request uninstall**: so Uninstall in the hold menu can open your phone's own uninstall confirmation. Rest never removes an app without that confirmation.
 
