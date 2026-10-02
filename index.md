@@ -19,11 +19,13 @@ To work as your home screen, Rest remembers your choices on the phone itself:
 * your favourites, the apps on your edges, and any names you gave apps
 * apps you hid from search
 * whether the clock, date and your line are shown, and the line you wrote
-* your background choice, colour, and the photo you picked
+* your background choice and colour, text size, alignment and other settings
 
 This stays in Rest's private storage on your phone. It is never sent anywhere. Uninstalling Rest deletes it.
 
-If you choose a photo for the background, Rest can read only that one image, using Android's photo picker or file picker. Rest never asks for access to your photos or files in general.
+Rest can show your phone's wallpaper behind the home screen. To choose light or dark text it uses Android's short colour summary of the wallpaper, never the picture itself. Rest never asks for access to your photos or files.
+
+If you turn on Battery, Rest reads the battery level only to show it next to the date.
 
 ## Permissions
 
